@@ -22,7 +22,7 @@ Sou estudante de **Ciências da Computação na UniNassau**, com interesse em de
 
 Desenvolvo projetos práticos utilizando diferentes linguagens, frameworks e bancos de dados, buscando aprimorar meus conhecimentos em programação e engenharia de software.
 
-- 🎓 Graduando em Sistemas de Informação
+- 🎓 Graduando em Ciências da Computação 
 - 💻 Desenvolvimento com Python, C, C++, Java e JavaScript
 - 🗄️ Experiência prática com PostgreSQL, Neon e Supabase
 - 🔐 Interesse em cibersegurança e proteção de dispositivos IoT
