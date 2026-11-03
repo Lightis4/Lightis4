@@ -18,7 +18,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Sistemas de Informação na Unifacisa**, com interesse em desenvolvimento de software, arquitetura de sistemas, backend e cibersegurança.
+Sou estudante de **Ciências da Computação na UniNassau**, com interesse em desenvolvimento de software, arquitetura de sistemas, backend e cibersegurança.
 
 Desenvolvo projetos práticos utilizando diferentes linguagens, frameworks e bancos de dados, buscando aprimorar meus conhecimentos em programação e engenharia de software.
 
