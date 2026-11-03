@@ -1,16 +1,18 @@
- <div align="center">
+
+<div align="center">
 
 # Pedro Henrique Barbosa Nogueira
 
-### Software Developer in Training | Backend Development | Cybersecurity
+### Desenvolvedor de Software em Formação
+#### Backend Development | Software Engineering | Cybersecurity
 
-**Transformando conhecimento em soluções através da programação.**
+**Construindo soluções através da tecnologia e da programação.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0B3B8C,100:0284C7&height=160&section=header&text=Welcome%20to%20my%20GitHub&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="Banner Dark Tech"/>
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0B3B8C,100:0284C7&height=170&section=header&text=Pedro%20Henrique&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%7C%20Cybersecurity&descAlignY=60&descSize=15)
 
 [![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lightis4)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-barbosa-nogueira-a40824386)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrobarbosa.n04@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrobarbosa.n04@gmail.com)
 
 </div>
 
@@ -18,20 +20,22 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Ciências da Computação na UniNassau**, com interesse em desenvolvimento de software, arquitetura de sistemas, backend e cibersegurança.
+Sou estudante de **Ciências da Computação na UniNassau**, com foco no desenvolvimento de aplicações, sistemas backend, bancos de dados e cibersegurança.
 
-Desenvolvo projetos práticos utilizando diferentes linguagens, frameworks e bancos de dados, buscando aprimorar meus conhecimentos em programação e engenharia de software.
+Tenho experiência prática adquirida por meio de projetos acadêmicos e pessoais, trabalhando com diferentes linguagens, ferramentas e tecnologias.
 
-- 🎓 Graduando em Ciências da Computação 
+Busco desenvolver soluções funcionais, organizadas e escaláveis, aprimorando continuamente minhas habilidades em programação e engenharia de software.
+
+- 🎓 Graduando em Ciências da Computação
 - 💻 Desenvolvimento com Python, C, C++, Java e JavaScript
-- 🗄️ Experiência prática com PostgreSQL, Neon e Supabase
-- 🔐 Interesse em cibersegurança e proteção de dispositivos IoT
-- 🚀 Foco em desenvolvimento backend e soluções escaláveis
-- 🌍 Interesse em oportunidades internacionais na área de tecnologia
+- 🗄️ Projetos utilizando PostgreSQL, Neon e Supabase
+- 🔐 Interesse em cibersegurança e dispositivos IoT
+- 🛠️ Experiência prática com Git, GitHub e versionamento
+- 🌍 Objetivo de construir carreira internacional em tecnologia
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Tecnologias e habilidades
 
 ### Linguagens de programação
 
@@ -41,12 +45,12 @@ Desenvolvo projetos práticos utilizando diferentes linguagens, frameworks e ban
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Desenvolvimento web
+### Desenvolvimento web e backend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-020617?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Bancos de dados
@@ -55,7 +59,7 @@ Desenvolvo projetos práticos utilizando diferentes linguagens, frameworks e ban
 ![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=postgresql&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### Ferramentas
+### Ferramentas de desenvolvimento
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -69,63 +73,129 @@ Desenvolvo projetos práticos utilizando diferentes linguagens, frameworks e ban
 
 ### 🔐 CamShield — Segurança para câmeras IP
 
-Projeto voltado ao desenvolvimento de soluções de segurança para câmeras IP e dispositivos IoT.
+Projeto de cibersegurança voltado à proteção de câmeras IP e dispositivos IoT.
 
 **Tecnologias:** Python, Flask e PostgreSQL.
 
-**Objetivo:** desenvolver uma plataforma de monitoramento, gerenciamento e identificação de possíveis vulnerabilidades em câmeras conectadas.
+**Funcionalidades planejadas:**
+- Gerenciamento de câmeras IP
+- Autenticação de usuários
+- Monitoramento de dispositivos
+- Alertas e verificações de segurança
 
-**Status:** desenvolvimento de MVP.
-
-### 🛡️ Cyber Segurança — Plataforma educacional
-
-Plataforma web voltada à conscientização sobre cibersegurança, com conteúdo educativo, quiz interativo e ranking de participantes.
-
-**Tecnologias:** HTML, CSS, JavaScript, Node.js e PostgreSQL.
-
-[Repositório](https://github.com/Lightis4/Cyber_seguranca) | [Acessar projeto](https://lightis4.github.io/Cyber_seguranca/)
-
-### 🏋️ FitManager — Gestão de alunos
-
-Aplicação para gerenciamento de alunos e acompanhamento de frequência, utilizando interface gráfica e integração com banco de dados.
-
-**Tecnologias:** Python, Tkinter e Supabase.
-
-[Ver repositório](https://github.com/Lightis4/FitManager)
-
-### 📊 SuperGestao — Sistema de gestão comercial
-
-Aplicação de gerenciamento comercial com interface gráfica e persistência de dados em PostgreSQL.
-
-**Tecnologias:** Python, Tkinter e Neon PostgreSQL.
-
-[Ver repositório](https://github.com/Lightis4/SuperGestao)
-
-### 📚 StudyPlan — Planejamento de estudos
-
-Sistema web para organização de tarefas acadêmicas, calendário e autenticação de usuários.
-
-**Tecnologias:** HTML, CSS, JavaScript e Supabase.
-
-[Repositório](https://github.com/Lightis4/Studyplan) | [Acessar projeto](https://lightis4.github.io/Studyplan/)
-
-### 🎓 Sistema de Cadastro de Alunos
-
-Sistema desenvolvido em Python para cadastro, consulta, edição e remoção de informações de estudantes.
-
-**Tecnologias:** Python e programação modular.
-
-[Ver repositório](https://github.com/Lightis4/Sistema-de-Cadastro-de-Aluno-)
+**Status:** MVP em desenvolvimento.
 
 ---
 
-## 📈 Estatísticas do GitHub
+### 🛡️ Cyber Segurança — Plataforma educacional
+
+Plataforma web para conscientização sobre segurança digital.
+
+**Tecnologias:** HTML, CSS, JavaScript, Node.js e PostgreSQL.
+
+**Funcionalidades:**
+- Conteúdo educativo
+- Quiz interativo
+- Sistema de pontuação
+- Ranking de participantes
+- Integração com banco de dados
+
+[![Repositório](https://img.shields.io/badge/Repositório-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lightis4/Cyber_seguranca)
+[![Website](https://img.shields.io/badge/Acessar_Site-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lightis4.github.io/Cyber_seguranca/)
+
+---
+
+### 🏋️ FitManager — Sistema de gestão
+
+Aplicação de gerenciamento de alunos e frequência.
+
+**Tecnologias:** Python, Tkinter e Supabase.
+
+**Funcionalidades:**
+- Cadastro de alunos
+- Consulta de informações
+- Gerenciamento de frequência
+- Integração com banco de dados
+
+[![Repositório](https://img.shields.io/badge/Ver_Projeto-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lightis4/FitManager)
+
+---
+
+### 📊 SuperGestao — Gestão comercial
+
+Sistema de gerenciamento comercial desenvolvido com Python.
+
+**Tecnologias:** Python, Tkinter e Neon PostgreSQL.
+
+**Características:**
+- Interface gráfica
+- Organização de informações comerciais
+- Persistência de dados
+- Integração com PostgreSQL
+
+[![Repositório](https://img.shields.io/badge/Ver_Projeto-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lightis4/SuperGestao)
+
+---
+
+### 📚 StudyPlan — Planejamento de estudos
+
+Aplicação web para organização acadêmica.
+
+**Tecnologias:** HTML, CSS, JavaScript e Supabase.
+
+**Funcionalidades:**
+- Calendário interativo
+- Cadastro de atividades
+- Organização de tarefas
+- Autenticação de usuários
+
+[![Repositório](https://img.shields.io/badge/Repositório-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lightis4/Studyplan)
+[![Website](https://img.shields.io/badge/Acessar_Site-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lightis4.github.io/Studyplan/)
+
+---
+
+### 🎓 Sistema de Cadastro de Alunos
+
+Sistema em Python desenvolvido para gerenciamento de informações acadêmicas.
+
+**Tecnologias:** Python.
+
+**Funcionalidades:**
+- Cadastro de estudantes
+- Listagem de registros
+- Edição de informações
+- Remoção de cadastros
+- Organização modular do código
+
+[![Repositório](https://img.shields.io/badge/Ver_Projeto-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lightis4/Sistema-de-Cadastro-de-Aluno-)
+
+---
+
+## 📌 Outros projetos
+
+| Projeto | Linguagem | Repositório |
+|---|---|---|
+| Calculadora em Java | Java | [Acessar](https://github.com/Lightis4/Calculadora_Java) |
+| Locadora de Filmes | Java | [Acessar](https://github.com/Lightis4/Locadora_Filmes) |
+| Sistema de Supermercado | Java | [Acessar](https://github.com/Lightis4/Sistema_Supermecado) |
+| StudyFlow | HTML, CSS, JS | [Acessar](https://github.com/Lightis4/Organizador_Estudantil-) |
+| Aulas de C | C | [Acessar](https://github.com/Lightis4/Aulas-C) |
+
+---
+
+## 📈 Áreas de conhecimento
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lightis4&show_icons=true&theme=github_dark&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=0EA5E9&text_color=E2E8F0" height="170" alt="Estatísticas do GitHub"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lightis4&layout=compact&theme=github_dark&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E2E8F0" height="170" alt="Linguagens mais utilizadas"/>
+| Desenvolvimento | Tecnologias |
+|---|---|
+| Backend | Python, Flask, Node.js |
+| Programação | C, C++, Java, Python |
+| Frontend | HTML, CSS, JavaScript |
+| Banco de dados | PostgreSQL, Neon, Supabase |
+| Controle de versão | Git, GitHub, Pull Requests |
+| Aplicações desktop | Tkinter, Qt |
+| Segurança | Fundamentos de cibersegurança e IoT |
 
 </div>
 
@@ -133,28 +203,25 @@ Sistema desenvolvido em Python para cadastro, consulta, edição e remoção de 
 
 ## 🎯 Objetivos profissionais
 
-- Aprimorar conhecimentos em desenvolvimento backend
-- Aprofundar estudos em arquitetura de software
-- Desenvolver aplicações seguras e escaláveis
-- Evoluir tecnicamente em Python, C++ e Java
-- Contribuir para projetos colaborativos e open source
-- Construir carreira internacional em tecnologia
+- Desenvolver aplicações backend robustas
+- Aprimorar conhecimentos em engenharia de software
+- Estudar arquitetura e segurança de sistemas
+- Desenvolver projetos utilizando boas práticas
+- Participar de projetos colaborativos
+- Contribuir para a comunidade de desenvolvimento
+- Construir uma carreira internacional em tecnologia
 
 ---
 
-## 📬 Contato
-
-Estou aberto a oportunidades de aprendizado, colaboração e desenvolvimento profissional.
-
-**E-mail:** pedrobarbosa.n04@gmail.com
-
-**LinkedIn:** [Pedro Henrique Barbosa Nogueira](https://www.linkedin.com/in/pedro-henrique-barbosa-nogueira-a40824386)
-
-**GitHub:** [github.com/Lightis4](https://github.com/Lightis4)
+## 📬 Contato profissional
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,50:0B3B8C,100:020617&height=100&section=footer" width="100%" alt="Rodapé Dark Tech"/>
+**Aberto a oportunidades de aprendizado, colaboração e desenvolvimento profissional.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-barbosa-nogueira-a40824386)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrobarbosa.n04@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lightis4)
 
 **Code. Learn. Build. Improve.**
 
